@@ -8,5 +8,7 @@ namespace Esuriru.Stats
     {
         [SerializeField]
         private bool _isShared; 
+
+          
     }
 }
