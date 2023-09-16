@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.seawisphunter.roleplay.attributes": {
+      "version": "https://github.com/shanecelis/SeawispHunter.RolePlay.Attributes.git#unity3d",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f1cdf4e654b12f85020b7b067c9adfd7c78a2311"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.10",
       "depth": 1,
