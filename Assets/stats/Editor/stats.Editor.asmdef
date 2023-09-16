@@ -1,5 +1,5 @@
 {
-    "name": "Editor",
+    "name": "stats.Editor",
     "rootNamespace": "",
     "references": [
         "GUID:5cb5c9c76afd7f642a59119909959cd8"

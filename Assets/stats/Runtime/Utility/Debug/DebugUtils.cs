@@ -1,6 +1,6 @@
 using UnityEngine.Assertions;
 
-namespace Esuriru.Items.Utility.Debug
+namespace Esuriru.Utility.Debug
 {
     public static class DebugUtils
     {
